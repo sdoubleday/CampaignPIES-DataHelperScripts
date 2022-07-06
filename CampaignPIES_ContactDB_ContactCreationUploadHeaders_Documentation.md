@@ -8,7 +8,7 @@
 
 ## last_name
 
-- Suggest that you treat this as Primary Key part 3 of 3
+- Suggest that you treat this as Primary Key part 2 of 3
 
 ## email
 
